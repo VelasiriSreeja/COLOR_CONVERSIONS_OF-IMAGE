@@ -36,8 +36,8 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
-### Developed By: M.PRANATHI
-### Register Number: 212222240064
+### Developed By: sreeja
+### Register Number: 212222230169
 
 
 ## Output:
@@ -48,7 +48,7 @@ Split and merge HSV Image
     import cv2
     image=cv2.imread('dog.jpg',1)
     image=cv2.resize(image,(300,300))
-    cv2.imshow('pranathi',image)
+    cv2.imshow('sreeja',image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ```
